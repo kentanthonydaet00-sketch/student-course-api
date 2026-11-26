@@ -1,0 +1,12 @@
+{
+  "name": "student-course-api",
+  "version": "1.0.0",
+  "description": "A simple Student Course API using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
